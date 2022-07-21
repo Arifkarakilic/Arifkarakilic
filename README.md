@@ -25,7 +25,7 @@
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Nodejs" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Dotnet" height="25" src="https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg"></code>	
+  <code><img title="Dotnet" height="25" src="images/dotnet.svg.png"></code>	
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="MongoDb" height="25" src="images/mongodb-logo.svg"></code>
