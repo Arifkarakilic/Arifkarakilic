@@ -13,3 +13,19 @@
 	<img src="https://komarev.com/ghpvc/?username=Arifkarakilic&label=Profile%20views&color=0e75b6&style=plastic" alt="Arifkarakilic" /> 
 	</a>
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:sarifkarakilic@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/arif-karak%C4%B1l%C4%B1%C3%A7-992a58150/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+### 👉 Programming languages
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Nodejs" height="25" src="images/nodejs.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+</p>
+<hr>
